@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabiojonathanarifin
 - 👀 I’m interested in learning and creating!
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on anything that I can learn!
+- 🌱 I’m currently creating a food app
+- 💞️ I’m looking to collaborate on anything awesome!
 - 📫 How to reach me: fabiojonathanarifin@gmail.com
 
 <!---
